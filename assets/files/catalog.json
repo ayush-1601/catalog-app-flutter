@@ -1,0 +1,68 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "iphone 12 pro",
+            "desc": "Apple iphone 12th generation",
+            "price": 999,
+            "color":"#33505a",
+            "image":"https://pngimg.com/uploads/iphone_12/iphone_12_PNG27.png"
+        },
+        {
+            "id": 2,
+            "name": "Pixel 5",
+            "desc": "Google Pixel phone 5th generation",
+            "price": 699,
+            "color":"#00ac51",
+            "image":"https://img.giznext.com/assets/model/25/1665/google-pixel-5-1612596850.png"
+        },
+        {
+            "id": 3,
+            "name": "MacBook pro",
+            "desc": "Apple Macbook pro",
+            "price": 1099,
+            "color":"#33505a",
+            "image":"https://www.freepnglogos.com/uploads/macbook-png/macbook-cleanmymac-the-best-mac-cleanup-app-for-macos-get-32.png"
+        },
+        {
+            "id": 4,
+            "name": "AirPods Pro",
+            "desc": "Apple Airpods Pro 1st gen",
+            "price": 200,
+            "color":"#33505a",
+            "image":"https://crdms.images.consumerreports.org/f_auto,w_600/prod/products/cr/models/400116-wireless-portable-headphones-apple-airpods-pro-10009323.png"
+        },
+        {
+            "id": 5,
+            "name": "ipad Pro",
+            "desc": "Apple iPad Pro 2020 edition",
+            "price": 799,
+            "color":"#33505a",
+            "image":"https://photos5.appleinsider.com/price_guide/12-9-ipad-pro-2020-header.png"
+        },
+        {
+            "id": 6,
+            "name": "Galaxy M32 5G",
+            "desc": "An Samsung Phone with 12 5G bands",
+            "price": 500,
+            "color":"#33505a",
+            "image":"https://images.samsung.com/is/image/samsung/p6pim/in/sm-m326bzbiins/gallery/in-galaxy-m32-5g-6gb-ram-sm-m326bzbiins-497607003?$2160_1728_PNG$"
+        },
+        {
+            "id": 7,
+            "name": "Playstation 5",
+            "desc": "Sony Playstation 5th generation",
+            "price": 300,
+            "color":"#33505a",
+            "image":"https://games4u.pk/wp-content/uploads/2021/06/Sony-PlayStation-5-Disc-Edition.png"
+        },
+        {
+            "id": 8,
+            "name": "Noise ColorFit Pro 2",
+            "desc": "Noise latest smartwatch 2021 edition",
+            "price": 959,
+            "color":"#33505a",
+            "image":"https://rameshwatch.com/wp-content/uploads/2020/06/Grey.png"
+        }
+    ]
+}
