@@ -1,6 +1,6 @@
-# flutter_demo
+# Flutter_Catalog_App
 
-A new Flutter project.
+A simple Flutter application with some features.
 
 ## Getting Started
 
